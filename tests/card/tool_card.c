@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Card test helper: prints what the card module reports, for test_card.py.
  *   tool_card statfs IMG
  *   tool_card stat IMG PATH

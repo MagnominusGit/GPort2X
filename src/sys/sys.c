@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Syscall decode, argument marshalling and dispatch (spec 2). OABI calls
  * arrive as svc #(0x900000 + N) with arguments in r0..r6; EABI test
  * programs as svc #0 with N in r7. Results go to r0 (negative errno on

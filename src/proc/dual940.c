@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* The MMSP2's second core, the ARM940T, as programs drive it (a sound or
  * decoder loop in shared memory): DUALCTRL940 (0xC0003B48) bit 7 holds it in
  * reset and bits 0-1 choose the 16 MB bank it sees at address 0; a program

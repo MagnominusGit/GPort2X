@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* One-instruction emulator for the native engine (docs/NATIVE_ENGINE.md,
  * spec 5.2, 5.3, 5.6).
  *

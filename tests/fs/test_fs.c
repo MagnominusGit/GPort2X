@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* fs module tests: path normalisation and symlink resolution, host-directory
  * backends (read-only and writable), the copy-on-write overlay (copy-up,
  * whiteouts, merged listings, lower statfs), /proc, /dev, descriptor tables

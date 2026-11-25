@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* GPort2X ELF32 ARM loader (spec 1.1, 1.4, #1).
  *
  * Loads OABI (and EABI test) executables at their fixed virtual addresses,

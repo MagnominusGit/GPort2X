@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Interpreter tests with hand-encoded instructions (ARM ARM, ARMv4T): the
  * semantics the spec singles out (rotated unaligned loads, STR pc = pc+12,
  * register-shift PC = pc+12, SWP, BX to Thumb, undefined and abort reporting)

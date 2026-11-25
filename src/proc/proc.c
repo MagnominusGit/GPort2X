@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Guest tasks, address spaces, signals, fork/clone/exec/exit/wait and the
  * scheduler. See proc.h and task.h. */
 #include <errno.h>

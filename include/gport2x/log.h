@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* GPort2X logging and trace switches (spec #23: syscall trace, register-access
  * log, unaligned-access log). Levels and traces are set from the environment
  * (GPORT2X_LOG=error|warn|info|debug, GPORT2X_TRACE=syscall,mmio,cpu,fs,...)

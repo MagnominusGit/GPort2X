@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* A host directory as a guest backend (the firmware rootfs read-only, the
  * private tmpfs mounts and overlay uppers writable). The guest never sees
  * host paths: every rel path is joined under the configured root, symlinks

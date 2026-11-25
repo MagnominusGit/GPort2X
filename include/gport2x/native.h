@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* The native engine (docs/NATIVE_ENGINE.md): guest code runs on the host CPU
  * in an armhf build of GPort2X on an AArch64 kernel with 32-bit compat
  * support. Available only where native_available() says so. */

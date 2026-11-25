@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* ELF loader tests: a synthetic ELF32 ARM image built in memory, the execve
  * probe (ELF / "#!" / neither), ET_DYN relocation by base, and the initial
  * stack layout. With GPORT2X_GAME_ELF set, the user's own game image is loaded

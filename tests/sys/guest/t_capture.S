@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 @ Call capture (--capture): main calls f(&buf, 5) twice; f reads buf[0],
 @ stores buf[0] + n to buf[1], writes "ok\n" to stdout, getcwd()s into cwd
 @ and returns buf[1]. tests/sys/test_capture.py checks each record: the entry

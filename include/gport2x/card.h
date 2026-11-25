@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* GPort2X card reader: the user's FAT16/FAT32 card image, read-only, with the
  * semantics Linux 2.4 vfat gives the guest (spec 6.2, 6.4, #8):
  *   - sizes and FAT timestamps (local FAT time + the kernel timezone,

@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* The SDL2 front end: a window (or the whole screen) showing the scanned-out
  * page, the keyboard and game controllers as the pad (controllers mapped by
  * button position), the OSS output on the host's audio. Built only with SDL2. */

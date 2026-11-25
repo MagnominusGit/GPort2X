@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Copy-on-write overlay (spec 6.4): reads come from lower unless upper has
  * the entry or a whiteout; writes copy the file up into upper. Whiteouts
  * are upper files named ".wh.<name>". statfs is lower's, so the card's

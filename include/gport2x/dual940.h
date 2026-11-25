@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* The ARM940T second core (src/proc/dual940.c). */
 #ifndef GPORT2X_DUAL940_H
 #define GPORT2X_DUAL940_H

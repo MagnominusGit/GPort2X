@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 /* Device files: /dev/mem, /dev/fb0|fb1, /dev/dsp, /dev/mixer, /dev/mmuhack,
  * /dev/GPIO, /dev/batt, /dev/cx25874 and the block-device placeholders. */
 #include <errno.h>

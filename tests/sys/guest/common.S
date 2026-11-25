@@ -1,3 +1,7 @@
+/* Copyright (c) 2026 Magnominus
+ *
+ * SPDX-License-Identifier: GPL-2.0-or-later
+ * Licensed under the GNU General Public License, version 2 or (at your option) any later version: see LICENSE. */
 @ Shared helpers for the guest syscall tests (ARMv4T, static, no libc).
 @ Assembled twice: EABI (svc 0, number in r7) and with -defsym OABI=1
 @ (swi 0x900000+N). The output must be identical under qemu-arm (EABI) and
